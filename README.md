@@ -12,10 +12,10 @@ This can help in forecasting sales and planning for inventory management.
 - Total Sales based on Gender
 - Total Annual income by Date
 - Total price by Engine Category
--  Dashboard Interraction
- Overview
+  ## Dashboard Interraction
+ ### Overview
 - <a href="https://github.com/pravinwa12/Power-BI-Dashboard/blob/main/Screenshot%202025-04-25%20110100.png">Dataset</a>
- Details
+### Details
 - <a href="https://github.com/pravinwa12/Power-BI-Dashboard/blob/main/Screenshot%202025-04-25%20110208.png">Dataset</a>
 ## Dashboards
 Overview
