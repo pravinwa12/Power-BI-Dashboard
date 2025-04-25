@@ -19,7 +19,7 @@ This can help in forecasting sales and planning for inventory management.
 - <a href="https://github.com/pravinwa12/Power-BI-Dashboard/blob/main/Screenshot%202025-04-25%20110208.png">Dataset</a>
 ## Dashboards
 Overview
-![Uploading Screenshot 2025-04-25 110100.png…]()
+![Screenshot 2025-04-25 110100](https://github.com/user-attachments/assets/b3b1533e-1d5a-421e-9564-6ad8398260c3)
 
 Details
 ![Screenshot 2025-04-25 110208](https://github.com/user-attachments/assets/511b8374-29e6-4757-a9b6-d1a357bf957f)
