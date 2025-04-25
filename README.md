@@ -4,3 +4,5 @@ The dashboard should offer a quick and easy way to see current sales performance
 This includes displaying key metrics like total sales, number of units sold, and overall revenue.
 The dashboard should allow users to visualize sales trends over time (e.g., monthly, quarterly, yearly) to identify patterns and potential future performance.
 This can help in forecasting sales and planning for inventory management.
+## Dataset used
+- <a href="https://github.com/pravinwa12/Power-BI-Dashboard/blob/main/Car%20Sales.csv">Dataset</a>
